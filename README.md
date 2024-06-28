@@ -1,1 +1,3 @@
 # HousingPricePredictor
+
+Description: The Italian housing market has stagnated post-2020 and is characterized by a decline in property sales and a cautious mortgage market influenced by tighter credit conditions and economic uncertainties. Despite a slight increase in house prices and stable rental yields, the market sees a robust demand for luxury properties, driven by high-net-worth individuals seeking wellness-oriented homes and benefiting from favorable tax policies. This research project focuses on the determining factors that determine house prices within and around major Italian metropolitan cities.
